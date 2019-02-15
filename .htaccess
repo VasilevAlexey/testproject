@@ -1,0 +1,2 @@
+RewriteEngine on
+RewriteRule ^login$ /testproject/form.php [L]
