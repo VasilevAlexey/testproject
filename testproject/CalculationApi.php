@@ -11,7 +11,7 @@ class CalculationApi extends Api
      * Заглушка
      */
     public function indexAction(){
-        echo "Method Get";
+        echo "Введите два числа";
     }
 
 

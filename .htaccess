@@ -8,4 +8,4 @@ RewriteRule ^(.*)$ /api/$1 [R=301]
 RewriteEngine On
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule ^api/?(.*)$ /testproject/index.php
+RewriteRule ^api/(.*)$ /testproject/index.php

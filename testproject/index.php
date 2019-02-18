@@ -5,7 +5,7 @@
 </head>
 <body>
 <h3>Вход на сайт</h3>
-<form action="index.php" method="POST">
+<form action="calculation" method="POST">
     a: <input type="text" name="a" /><br><br>
     b: <input type="text" name="b" /><br><br>
     <input type="submit" value="Войти">
